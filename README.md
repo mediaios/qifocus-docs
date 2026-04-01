@@ -1,2 +1,0 @@
-# qifocus-docs
-qifocs docs
