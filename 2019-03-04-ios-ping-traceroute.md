@@ -1,11 +1,3 @@
----
-layout: post
-title: 在iOS平台实现Ping和traceroute
-description: ios平台网络诊断SDK，支持对ip和域名的ping,traceroute(udp,icmp协议)，支持tcp ping, 端口扫描，nslookup等功能
-category: blog
-tag: ios ping, ping, traceroute, ios icmp,icmp ios,icmp traceroute ios,icmp traceroute,udp traceroute,udp traceroute ios
----
-
 ## 概述
 
 本篇文章主要讲ping和traceroute的原理以及在ios平台的实现，所有的代码都放到了github上并且发布到了cocoapods。你可以通过这个SDK非常容易的就能实现ping和traceroute(包含UDP和ICMP)等网络诊断的基本功能。
